@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shred-dad
-- 👀 I’m interested in Sports, video editing and coding. Started off with all kinds of VBA coding and ERP/Non ERP automation
+- 👀 I’m interested in Sports, video editing and coding. Started off with all kinds of VBA coding and VBA ERP/NonERP automation (SAP), webscraping
 - 🌱 I’m currently learning html, css & javascript
-- 📫 How to reach me :
-  maciek.snow@gmail.com
+- 📫 How to reach me : maciek.snow@gmail.com
 
 <!---
 shred-dad/shred-dad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
